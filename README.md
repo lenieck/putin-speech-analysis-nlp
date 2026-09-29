@@ -53,7 +53,7 @@ The topics I found closely followed real-world events:
 
 Finally, I analyzed the specific propaganda techniques used in those sentences over time using the NCI Technique Classifier (ModernBERT-base).
 
-The most dominant technique across all years was name-calling and labeling. Other common techniques included slogans, reductio ad Hitlerum, doubt, and appeals to fear or prejudice. 
+The most dominant technique across all years was name-calling and labeling. Other common techniques included slogans, reductio ad Hitlerum, doubt and appeals to fear or prejudice. 
 
 ## Dominant propaganda technique used over time.
 ![Dominant propaganda technique](techniques.png)
